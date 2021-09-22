@@ -15,9 +15,9 @@
 	"minimum-stability": "dev",
 	"require": {
 		"php": "~7.1||~8.0",
-		"aimeos/aimeos-core": "dev-master",
+		"aimeos/aimeos-core": "dev-kbs24",
 		"aimeos/ai-controller-jobs": "dev-master",
-		"aimeos/ai-controller-frontend": "dev-master",
+		"aimeos/ai-controller-frontend": "dev-features/user_change_password",
 		"illuminate/http": "^8.54.0",
 		"tecnickcom/tcpdf": "^6.4.1"
 	},
