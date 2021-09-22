@@ -19,7 +19,7 @@
 	"require": {
 		"php": "~7.1||~8.0",
 		"aimeos/aimeos-core": "dev-kbs24",
-		"aimeos/ai-controller-jobs": "dev-master",
+		"aimeos/ai-controller-jobs": "dev-master || 2021.07.*",
 		"aimeos/ai-controller-frontend": "dev-kbs24",
 		"illuminate/http": "^8.54.0",
 		"tecnickcom/tcpdf": "^6.4.1"
