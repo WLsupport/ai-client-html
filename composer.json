@@ -11,6 +11,9 @@
 		"forum": "https://aimeos.org/help",
 		"wiki": "https://aimeos.org/docs"
 	},
+	"provide": {
+		"aimeos/ai-client-html": "dev-master || 2021.07.4"
+	},
 	"prefer-stable": true,
 	"minimum-stability": "dev",
 	"require": {
